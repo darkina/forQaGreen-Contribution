@@ -1,9 +1,13 @@
 [VALIDATE_3]
-
 ###Rule
-exact-match
-
+multiple-choice
+###Question
+What are the different message processing status in SAP Cloud Platform Integration? (completed, failed, escalated)
 ###Match
-my answer to this question is yes
-
+[x] Completed
+[x] Failed
+[ ] Error
+[ ] Exception
+[x] Escalated
+[ ] Alert
 [VALIDATE_3]
